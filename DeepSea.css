@@ -1,0 +1,38 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+p{
+ 
+ background- color: lightblue;
+ color: darkblue;
+font-size: 12px;
+text-decoration: line-through;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3.5em;
+    color: teal;
+    background-color: #889EAE;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+
+
+
+
+h2 {
+    font-size: 1.5em;
+    background-color: #91ABBE;
+    margin: 20px;
+    padding: 40px;
+ text-decoration: underline;
+}
+
+
+
+}
